@@ -1,4 +1,3 @@
-author: Ir1d, CBW2007, ChungZH, xhn16729, Xeonacid, tptpp, hsfzLZH1, ouuan, Marcythm, HeRaNO, greyqz, Chrogeek, partychicken, zhb2000, xyf007, Persdre, XiaoSuan250, hhc0001, ZhangZhanhaoxiang, Taoran\_01
 
 本页面主要介绍了动态规划的基本思想，以及动态规划中状态及状态转移方程的设计思路，帮助各位初学者对动态规划有一个初步的了解。
 
@@ -59,7 +58,7 @@ author: Ir1d, CBW2007, ChungZH, xhn16729, Xeonacid, tptpp, hsfzLZH1, ouuan, Marc
 
 ### 无后效性
 
-已经求解的子问题，不会再受到后续决策的影响。
+**已经求解的子问题，不会再受到后续决策的影响。**
 
 ### 子问题重叠
 
